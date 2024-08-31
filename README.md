@@ -17,7 +17,7 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 
 ## 📈 GitHub Statistik
 
-![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=ditt-Jonatanprepuk&show_icons=true&theme=radical)
+![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=ditt-jonatanprepuk&show_icons=true&theme=radical)
 
 ## 📫 Hur du når mig
 
