@@ -1,4 +1,4 @@
-# 👋 Hej, jag är [Ditt Namn]!
+# 👋 Hej, jag är Jonatan!
 
 Välkommen till min GitHub-profil! 🚀 Här hittar du mina projekt, idéer och vad jag jobbar med just nu. Jag studerar till en dubbelkandidat i data- & systemvetenskap och företagsekonomi på Stockholms Universitet. Mina största intressen är maskininlärning och webbaplikationer.
 
@@ -7,8 +7,8 @@ Välkommen till min GitHub-profil! 🚀 Här hittar du mina projekt, idéer och 
 Här är några av de tekniker och verktyg jag använder i mitt arbete:
 
 - 💻 **Språk**: Python, JavaScript, Java 
-- 🌐 **Ramverk**: React, Node.js, Pandas, Numpy, Tensorflow, OpenCV
-- - ⚙️ **Verktyg**: Firebase, VS Code
+- 🌐 **Ramverk**: React, Tensorflow, Pandas, Numpy, OpenCV
+- - ⚙️ **Verktyg**: Firebase, VS Code, Node.js
 
 ## 🌱 Vad jag håller på att lära mig
 
@@ -34,16 +34,13 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 
 Här är mina senaste projekt:
 
-- [Projekt 1](länk-till-projekt-1): En kort beskrivning av projektet.
-- [Projekt 2](länk-till-projekt-2): En kort beskrivning av projektet.
+- [Ban List](https://github.com/Jonatanprepuk/Ban-List): Ban List är en webbaplikation som gör det enkelt för dig som användare att snabbt se vilka företag som är på Ukrainas "svarta lista". 
+- [Flower AI](https://github.com/Jonatanprepuk/Flower-AI-App): Flower AI är en webbaplikation där man kan ladda upp en bild och ta reda på vilken blomma det är.
 
-Tack för att du tittar förbi! 😊 Glöm inte att stjärnmärka mina projekt om du gillar dem ⭐️
+Jag är inte jätteaktiv här på GitHub men laddar ibland upp lite olika projekt. 
+Tack för att du tittar förbi! 😊 
 
 ---
-
-> “Din favoritcitat här”
-
-![Ditt Namn's GitHub trophy](https://github-profile-trophy.vercel.app/?username=ditt-användarnamn&theme=onedark)
 
 <!--
 **Jonatanprepuk/Jonatanprepuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
