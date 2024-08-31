@@ -8,7 +8,7 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 
 - 💻 **Språk**: Python, JavaScript, Java 
 - 🌐 **Ramverk**: React, Tensorflow, Pandas, Numpy, OpenCV
-- ⚙️ **Verktyg**: Firebase, VS Code, Node.js
+- ⚙️ **Verktyg**: Firebase, VS Code, Node.js, pip, Excel
 
 ## 🌱 Vad jag håller på att lära mig
 
