@@ -17,12 +17,12 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 
 ## 📈 GitHub Statistik
 
-![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=ditt-jonatanprepuk&show_icons=true&theme=radical)
+![Dina GitHub-statistik](https://github-readme-stats.vercel.app/api?username=jonatanprepuk&show_icons=true&theme=radical)
 
 ## 📫 Hur du når mig
 
 - 📧 Email: [jonatanprepuk@gmail.com](mailto:jonatanprepuk@gmail.com)
-- 📸Instagram: [@jonatanprepuk](https://www.instagram.com/jonatanprepuk/?hl=en)
+- 📸 Instagram: [@jonatanprepuk](https://www.instagram.com/jonatanprepuk/?hl=en)
 - 💼 LinkedIn: [Min Linkedin](https://www.linkedin.com/in/jonatanprepuk/)
 
 ## ✨ Kul fakta
