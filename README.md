@@ -13,7 +13,6 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 ## 🌱 Vad jag håller på att lära mig
 
 - 🔭 Just nu jobbar jag mest med att fördjupa mina kunskaper inom webbaplikationer och datastrukturer & algoritmer. 
-- 📚 Planerar att lära mig mer om hur större projekt och 
 
 ## 📈 GitHub Statistik
 
@@ -34,6 +33,7 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 
 Här är mina senaste projekt:
 
+- [Cybersecurity Academy CTF](https://ctf-csa.web.app/): Mitt senaste projekt, en interaktiv hemsida byggd i React där användare utmanar sina cybersäkerhetskunskaper. Projektet använder Firebase för autentisering, hosting och lagring i Firestore för att hantera data. En hemsida perfekt för dig som vill lära dig mer om Capture the Flag-utmaningar 🏴‍☠️.
 - [Ban List](https://github.com/Jonatanprepuk/Ban-List): Ban List är en webbaplikation som gör det enkelt för dig som användare att snabbt se vilka företag som är på Ukrainas "svarta lista". 
 - [Flower AI](https://github.com/Jonatanprepuk/Flower-AI-App): Flower AI är en webbaplikation där man kan ladda upp en bild och ta reda på vilken blomma det är.
 
