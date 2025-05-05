@@ -9,25 +9,21 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 - 💻 **Språk**: Python, JavaScript, Java 
 - 🌐 **Ramverk**: React, Tensorflow, Pandas, Numpy, OpenCV
 - ⚙️ **Verktyg**: Firebase, VS Code, Node.js, pip, Excel
-
+<!--
 ## 🌱 Vad jag håller på att lära mig
 
 - 🔭 Just nu jobbar jag mest med att fördjupa mina kunskaper inom webbaplikationer och datastrukturer & algoritmer. 
 
+
 ## 📈 GitHub Statistik
 
 ![GitHub-statistik](https://github-readme-stats.vercel.app/api?username=jonatanprepuk&show_icons=true&theme=radical)
-
+-->
 ## 📫 Hur du når mig
 
 - 📧 Email: [jonatanprepuk@gmail.com](mailto:jonatanprepuk@gmail.com)
 - 📸 Instagram: [@jonatanprepuk](https://www.instagram.com/jonatanprepuk/?hl=en)
 - 💼 LinkedIn: [Min Linkedin](https://www.linkedin.com/in/jonatanprepuk/)
-
-## ✨ Kul fakta
-
-- 🌍 Jag älskar att resa!
-- ⚽️ Jag är en riktig fotbollsnörd, Liverpool FC är favoritlaget 🐦‍🔥
 
 ## 📂 Projekt
 
