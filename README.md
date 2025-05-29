@@ -22,7 +22,6 @@ Här är några av de tekniker och verktyg jag använder i mitt arbete:
 ## 📫 Hur du når mig
 
 - 📧 Email: [jonatanprepuk@gmail.com](mailto:jonatanprepuk@gmail.com)
-- 📸 Instagram: [@jonatanprepuk](https://www.instagram.com/jonatanprepuk/?hl=en)
 - 💼 LinkedIn: [Min Linkedin](https://www.linkedin.com/in/jonatanprepuk/)
 
 ## 📂 Projekt
